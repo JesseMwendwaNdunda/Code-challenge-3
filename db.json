@@ -3,14 +3,14 @@
     {
       "id": 1,
       "title": "The Day I Found My Voice",
-      "author": "Zuri Wambui",
+      "author": "Abel Mututa",
       "content": "It all began with a simple poem in a crowded classroom. Who knew words could roar louder than thunder?",
       "image": "https://picsum.photos/id/1011/400/200"
     },
     {
       "id": 2,
       "title": "Lessons from a Boda Boda Ride",
-      "author": "Brian Mwangi",
+      "author": "Biker wa Nairobii",
       "content": "Nairobi traffic teaches patience. But a boda ride? That teaches trust.",
       "image": "https://picsum.photos/id/1022/400/200"
     },
@@ -24,7 +24,7 @@
     {
       "id": 4,
       "title": "My Grandma’s Secret Ugali Recipe",
-      "author": "Kelvin Otieno",
+      "author": "Sheila Mama",
       "content": "You think all ugali is the same? Wait till you read this. Spoiler: She uses milk.",
       "image": "https://picsum.photos/id/1062/400/200"
     }
