@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Day I Found My Voice",
+      "author": "Zuri Wambui",
+      "content": "It all began with a simple poem in a crowded classroom. Who knew words could roar louder than thunder?",
+      "image": "https://picsum.photos/id/1011/400/200"
+    },
+    {
+      "id": 2,
+      "title": "Lessons from a Boda Boda Ride",
+      "author": "Brian Mwangi",
+      "content": "Nairobi traffic teaches patience. But a boda ride? That teaches trust.",
+      "image": "https://picsum.photos/id/1022/400/200"
+    },
+    {
+      "id": 3,
+      "title": "Why I Stopped Watching the News",
+      "author": "Solomon Kitonyi",
+      "content": "Not because I don't care, but because I had to protect my peace. Here's what happened...",
+      "image": "https://picsum.photos/id/1035/400/200"
+    },
+    {
+      "id": 4,
+      "title": "My Grandma’s Secret Ugali Recipe",
+      "author": "Kelvin Otieno",
+      "content": "You think all ugali is the same? Wait till you read this. Spoiler: She uses milk.",
+      "image": "https://picsum.photos/id/1062/400/200"
+    }
+  ]
+}

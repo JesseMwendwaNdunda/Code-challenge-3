@@ -1,32 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Simple Blog Manager</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <h1>My Blog Posts</h1>
 
   <div id="postList"></div>
+
   <div id="postDetail">Select a post to view details</div>
 
   <h3>Add New Post</h3>
   <form id="newPostForm">
-    <input type="text" id="title" placeholder="Title" required /><br>
-    <input type="text" id="author" placeholder="Author" required /><br>
-    <textarea id="content" placeholder="Content" required></textarea><br><br>
+    <input type="text" id="title" placeholder="Title" required />
+    <input type="text" id="author" placeholder="Author" required />
+    <textarea id="content" placeholder="Content" required></textarea>
+    <input type="text" id="image" placeholder="Image URL (optional)" />
     <button type="submit">Add Post</button>
   </form>
 
   <form id="editPostForm" class="hidden">
     <h4>Edit Post</h4>
-    <input type="text" id="editTitle" required  placeholder="post name"><br>
-    <textarea id="editContent" required></textarea><br>
-    <button type="submit">Update</button><br>
-    <button type="button" id="cancelEdit">Cancel</button><br>
+    <input type="text" id="editTitle" required placeholder="Title" />
+    <textarea id="editContent" required placeholder="Content"></textarea>
+    <button type="submit">Update Post</button>
+    <button type="button" id="cancelEdit">Cancel</button>
   </form>
 
-  <script src="src/index.js"></script>
+  <script src="index.js"></script>
 </body>
 </html>
+
